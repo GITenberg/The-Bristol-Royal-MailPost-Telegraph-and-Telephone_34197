@@ -1,0 +1,28 @@
+_repo: The-Bristol-Royal-MailPost-Telegraph-and-Telephone_34197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tombs, Robert Charles
+    alias: Tombs, R. C. (Robert Charles)
+    birthdate: 1842
+    deathdate: 1923
+    gutenberg_agent_id: '33387'
+    url: http://www.gutenberg.org/2009/agents/33387
+description: ''
+gutenberg_issued: '2010-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34197'
+  lccn: '40036553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Postal service -- England -- Bristol'
+- !lcc 'HE'
+title: 'The Bristol Royal Mail: Post, Telegraph, and Telephone'
+url: http://www.gutenberg.org/ebooks/34197
